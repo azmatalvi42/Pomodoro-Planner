@@ -21,7 +21,7 @@ We welcome contributions from developers, designers, and users alike! Here's how
 1. **Fork the repository**: Clone the project to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/pomodoro-planner.git
+   git clone
    ```
 
 2. **Install dependencies**: Make sure you have the necessary tools to run the project.
