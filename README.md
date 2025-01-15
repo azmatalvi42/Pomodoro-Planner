@@ -52,21 +52,6 @@ This project uses [file-based routing](https://docs.expo.dev/router/introduction
 - [React Native Documentation](https://reactnative.dev/): Deep dive into React Native components and APIs.
 - [Contribution Guidelines](CONTRIBUTING.md): Understand the process and standards for contributing to this project.
 
-## Community
-
-Join our growing community of developers and productivity enthusiasts:
-
-- [GitHub Issues](https://github.com/your-repo/issues): Report bugs and suggest new features.
-- [Discussions](https://github.com/your-repo/discussions): Share ideas and ask questions.
-- [Discord Server](https://discord.gg/your-invite-link): Collaborate in real-time with other contributors.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as long as you include the original license.
-
-## Acknowledgments
-
-Thank you to everyone who has contributed to this project. Together, we can build a tool that makes productivity accessible to everyone.
 
 <img width="199" alt="Screenshot 2025-01-14 at 8 44 13 PM" src="https://github.com/user-attachments/assets/28033610-781a-4f29-9a0b-22ffe28dcf2c" />
 <img width="199" alt="Screenshot 2025-01-14 at 8 44 25 PM" src="https://github.com/user-attachments/assets/05cebd1a-3026-4fe7-8fa5-19141ae08185" />
