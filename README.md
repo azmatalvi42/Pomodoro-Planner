@@ -67,3 +67,9 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## Acknowledgments
 
 Thank you to everyone who has contributed to this project. Together, we can build a tool that makes productivity accessible to everyone.
+
+<img width="199" alt="Screenshot 2025-01-14 at 8 44 13 PM" src="https://github.com/user-attachments/assets/28033610-781a-4f29-9a0b-22ffe28dcf2c" />
+<img width="199" alt="Screenshot 2025-01-14 at 8 44 25 PM" src="https://github.com/user-attachments/assets/05cebd1a-3026-4fe7-8fa5-19141ae08185" />
+
+
+
